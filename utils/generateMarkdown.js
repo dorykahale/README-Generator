@@ -33,11 +33,9 @@ function generateMarkdown(data) {
   ${data.contribution}
   ## Test
   ${data.test}
-  ## Questions
-  ${data.questions}
   ## License
   ${data.license}
-  
+
   ## Questions
   Contact Information
   Github [${data.username}](https://github.com/${data.username})
