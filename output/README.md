@@ -1,4 +1,4 @@
-# Test
+# Example README File
   ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
@@ -7,7 +7,6 @@
   * [Test](#Test)
   * [Questions](#Questions)
   * [License](#License)
-  * 
   
   ## Description
   Test
