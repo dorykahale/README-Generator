@@ -11,7 +11,8 @@ when prompted for information about your application repository, then generates 
 
 [Download Command Line Walkthrough Video](assets/ReadMeFileGeneratorInstructions.mov)
 
-Add an "output" folder to your roots level for your README.md file to generate to.
+1. Install inquirer NPM to your bash/terminal.
+2. Add an "output" folder to your roots level for your README.md file to generate to.
 
 README File Generator GitHub Repo: 
 https://github.com/dorykahale/README-Generator
