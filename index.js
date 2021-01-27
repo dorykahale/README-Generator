@@ -27,29 +27,32 @@ const questions = [
         type: "input",
         message: "Enter the usage information of the project: ",
         name: "usage"
-
     },
     {
         type: "input",
         message: "Enter contributing guidelines: ",
-        name: "contribute"
-
+        name: "contribution"
     }, 
     {
         type: "input",
         message: "Enter tests instructions: ",
-        name: "tests"
+        name: "test"
     },
     {
         type: "input",
         message: "Enter licensing information: ",
-        name: "licensing"
+        name: "license"
     },
     {
         type: "input",
         message: "Enter your Github username: ",
         name: "username"
     },
+    {
+    type: "input",
+    message: "Enter your contact email address: ",
+    name: "email"
+    }
 ];
 
 // TODO: Create a function to write README file
@@ -58,7 +61,7 @@ function writeToFile(README, data) {
             if (err) {
                 throw err;
             }
-            console.log("ReadMe was created");
+            console.log("Success! README.md File Was Created");
         });
 }
 

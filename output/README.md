@@ -1,4 +1,4 @@
-# blah
+# Generator
   ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
@@ -10,21 +10,21 @@
   * 
   
   ## Description
-  blah
+  Create files
   ## Installation
-  blah
+  install npm
   ## Usage
-  blah
+  blah blah blah
   ## Contribution
-  undefined
+  blah blah blah
   ## Test
-  undefined
+  to test, test this
   ## Questions
   undefined
   ## License
-  undefined
+  no licensing... don't touch!
   
   ## Questions
   Contact Information
   Github [dorykahale](https://github.com/dorykahale)
-  Email: undefined
+  Email: dorykahale@gmail.com
