@@ -1,4 +1,4 @@
-# Generator
+# Test
   ## Table of Contents
   * [Description](#Description)
   * [Installation](#Installation)
@@ -10,20 +10,18 @@
   * 
   
   ## Description
-  Create files
+  Test
   ## Installation
-  install npm
+  Do this
   ## Usage
-  blah blah blah
+  Use it
   ## Contribution
-  blah blah blah
+  I'd like to contribute
   ## Test
-  to test, test this
-  ## Questions
-  undefined
+  Test it
   ## License
-  no licensing... don't touch!
-  
+  no can touch this
+
   ## Questions
   Contact Information
   Github [dorykahale](https://github.com/dorykahale)
